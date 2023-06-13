@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Neili Bermúdez.
+- 👋 Hi, I’m Neili Bermudez.
 - 👀 Thanks for checking out my profile. I’m interested in public health, early childhood development, and data visualization on these topics.  
 
 <!---
